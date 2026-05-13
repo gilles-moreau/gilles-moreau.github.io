@@ -15,6 +15,7 @@ exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", 
 default_lang_in_subfolder: true
 url: https://www.thegiwedding.com
 
+
 ############################
 # --- Required options --- #
 ############################
