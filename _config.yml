@@ -13,7 +13,7 @@ languages: ["en", "fr", "gr"]
 default_lang: "fr"
 exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "CNAME"]
 default_lang_in_subfolder: true
-url: http://127.0.0.1:4000
+url: https://www.thegiwedding.com
 
 ############################
 # --- Required options --- #
