@@ -1,0 +1,15 @@
+site_title:
+  fr: "Mariage"
+  en: "Wedding"
+  gr: "Γάμος"
+
+post:
+  posted_on:
+    fr: "Publié le"
+    en: "Posted on"
+    gr: "Δημοσιεύθηκε στις"
+
+  by:
+    fr: "Par"
+    en: "By"
+    gr: "Από"
