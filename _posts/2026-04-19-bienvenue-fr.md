@@ -12,5 +12,13 @@ lang: fr
 locale: fr_FR
 ---
 
-Bienvenue à tous sur ce site dans lequel vous trouverez quelques posts qui vous
-donnerons des informations.
+Le compte à rebours est lancé ! Il ne reste plus qu’un mois avant le grand
+jour. Nous sommes en plein dans les préparatifs pour vous accueillir dans les
+meilleures conditions et n’attendons plus que vous.
+
+Nous souhaiterions vous transmettre, via ce site, toute une série
+d’informations qui pourraient vous être utiles pendant votre voyage. Restez
+connectés ! 
+
+À bientôt.
+
